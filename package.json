@@ -1,0 +1,16 @@
+{
+  "name": "twitter_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Mayer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "twitter": "^1.7.1",
+    "vue": "^2.5.16"
+  }
+}
